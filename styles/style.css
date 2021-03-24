@@ -1,0 +1,47 @@
+body{
+    background-color: #E5E5E5;
+    font-family: 'Roboto', sans-serif;
+}
+h3{
+    color: blue;
+}
+
+.navbar img{
+    width: 40px;
+}
+
+main{
+    max-width: 870px;
+}
+
+.player img{
+    width: 56px;
+}
+
+.blog img{
+    width: 177px;
+}
+
+footer{
+    max-width: 870px;
+}
+.card img{
+    width: 230px;
+    margin: auto;
+    padding-top: 7px;
+}
+.card-text{
+    color: #ED6B4F;
+}
+.orange{
+    color: orange;
+}
+.gray{
+    color: lightgray;
+}
+.button{
+    background-color:  #FEE5DF;
+    border-radius: 15px;
+    color: rgba(237, 107, 79, 1);
+    border: none;
+}
